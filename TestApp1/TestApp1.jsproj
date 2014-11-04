@@ -123,6 +123,7 @@
     <Content Include="scripts\bootstrap.js" />
     <Content Include="scripts\holder.js" />
     <Content Include="scripts\index.js" />
+    <Content Include="scripts\jquery-2.1.1.js" />
     <Content Include="scripts\npm.js" />
     <Content Include="scripts\platformOverrides.js" />
     <Content Include="css\index.css" />
