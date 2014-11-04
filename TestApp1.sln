@@ -1,0 +1,100 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "TestApp1", "TestApp1\TestApp1.jsproj", "{6523AF52-4E24-4080-890B-0998C7906DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows Phone = Debug|Windows Phone
+		Debug|Windows-AnyCPU = Debug|Windows-AnyCPU
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Distribution|Android = Distribution|Android
+		Distribution|iOS = Distribution|iOS
+		Distribution|Windows Phone = Distribution|Windows Phone
+		Distribution|Windows-AnyCPU = Distribution|Windows-AnyCPU
+		Distribution|Windows-ARM = Distribution|Windows-ARM
+		Distribution|Windows-x64 = Distribution|Windows-x64
+		Distribution|Windows-x86 = Distribution|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows Phone = Release|Windows Phone
+		Release|Windows-AnyCPU = Release|Windows-AnyCPU
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Android.ActiveCfg = Debug|Android
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Android.Build.0 = Debug|Android
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Android.Deploy.0 = Debug|Android
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|iOS.ActiveCfg = Debug|iOS
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|iOS.Build.0 = Debug|iOS
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|iOS.Deploy.0 = Debug|iOS
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-AnyCPU.ActiveCfg = Debug|Windows-AnyCPU
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-AnyCPU.Build.0 = Debug|Windows-AnyCPU
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-AnyCPU.Deploy.0 = Debug|Windows-AnyCPU
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Android.ActiveCfg = Distribution|Android
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Android.Build.0 = Distribution|Android
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Android.Deploy.0 = Distribution|Android
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|iOS.ActiveCfg = Distribution|iOS
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|iOS.Build.0 = Distribution|iOS
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|iOS.Deploy.0 = Distribution|iOS
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows Phone.ActiveCfg = Distribution|Windows Phone
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows Phone.Build.0 = Distribution|Windows Phone
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows Phone.Deploy.0 = Distribution|Windows Phone
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-AnyCPU.ActiveCfg = Distribution|Windows-AnyCPU
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-AnyCPU.Build.0 = Distribution|Windows-AnyCPU
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-AnyCPU.Deploy.0 = Distribution|Windows-AnyCPU
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-ARM.ActiveCfg = Distribution|Windows-ARM
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-ARM.Build.0 = Distribution|Windows-ARM
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-ARM.Deploy.0 = Distribution|Windows-ARM
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-x64.ActiveCfg = Distribution|Windows-x64
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-x64.Build.0 = Distribution|Windows-x64
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-x64.Deploy.0 = Distribution|Windows-x64
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-x86.ActiveCfg = Distribution|Windows-x86
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-x86.Build.0 = Distribution|Windows-x86
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Distribution|Windows-x86.Deploy.0 = Distribution|Windows-x86
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Android.ActiveCfg = Release|Android
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Android.Build.0 = Release|Android
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Android.Deploy.0 = Release|Android
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|iOS.ActiveCfg = Release|iOS
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|iOS.Build.0 = Release|iOS
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|iOS.Deploy.0 = Release|iOS
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-AnyCPU.ActiveCfg = Release|Windows-AnyCPU
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-AnyCPU.Build.0 = Release|Windows-AnyCPU
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-AnyCPU.Deploy.0 = Release|Windows-AnyCPU
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{6523AF52-4E24-4080-890B-0998C7906DAB}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
